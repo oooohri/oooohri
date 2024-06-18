@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
