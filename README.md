@@ -1,4 +1,4 @@
-
+![Blue Illustrative Organic Ocean Habitat Presentation](https://github.com/oooohri/oooohri/assets/127761560/29fa1136-3c4c-490b-ba1a-d78fb2e8c357)
 <!--
 **oooohri/oooohri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Ohri's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="file:///Users/ohyuri/Desktop/Blue%20Illustrative%20Organic%20Ocean%20Habitat%20Presentation.gif" />
 </div>
