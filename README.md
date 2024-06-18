@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="file:///Users/ohyuri/Desktop/Blue%20Illustrative%20Organic%20Ocean%20Habitat%20Presentation.gif" />
+  <img src="file:///Users/ohyuri/Desktop/Blue%20Illustrative%20Organic%20Ocean%20Habitat%20Presentation.gif" height="300" />
 </div>
+
