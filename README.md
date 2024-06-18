@@ -57,6 +57,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/googledocs-4285F4.svg?style=for-the-badge&logo=googledocs&logoColor=black" />&nbsp
 </div>
 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/swiper-6332F6.svg?style=for-the-badge&logo=swiper&logoColor=black" />&nbsp
+
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
