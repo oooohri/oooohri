@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 내용 부분 -->
+<!-- 펫 키우기 -->
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/oooohri"
