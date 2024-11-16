@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 내용 부분 -->
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/oooohri"
+  width="600"
+  height="300"
+/>
+</a>
 <!-- 프론트 기술 내용 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
