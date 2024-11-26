@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+  .center {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+</style>
 <!--타이틀 부분-->
 <div align="center">
   <img src="file:///Users/ohyuri/Desktop/Blue%20Illustrative%20Organic%20Ocean%20Habitat%20Presentation.gif"/>
@@ -21,14 +27,15 @@ Here are some ideas to get you started:
 
 <!-- 내용 부분 -->
 <!-- 펫 키우기 -->
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/oooohri"
-  width="600"
-  height="300"
-/>
-</a>
-
+<div class="center">
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/oooohri"
+      width="600"
+      height="300"
+    />
+    </a>
+</div>
 <!-- 프론트 기술 내용 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
