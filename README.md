@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  .center {
-    display:flex;
-    justify-content:center;
-    align-items:center;
-  }
-</style>
 <!--타이틀 부분-->
 <div align="center">
   <img src="file:///Users/ohyuri/Desktop/Blue%20Illustrative%20Organic%20Ocean%20Habitat%20Presentation.gif"/>
